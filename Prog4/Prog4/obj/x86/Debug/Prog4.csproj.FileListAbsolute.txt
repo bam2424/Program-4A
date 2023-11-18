@@ -1,0 +1,31 @@
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17F\Progs\Prog4\Prog4\bin\Debug\Prog1.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17F\Progs\Prog4\Prog4\bin\Debug\Prog1.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17F\Progs\Prog4\Prog4\obj\x86\Debug\Prog4.csprojResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17F\Progs\Prog4\Prog4\obj\x86\Debug\Prog4.csproj.CoreCompileInputs.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17F\Progs\Prog4\Prog4\obj\x86\Debug\Prog1.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17F\Progs\Prog4\Prog4\obj\x86\Debug\Prog1.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_18F\Programs\Prog4\Prog4\bin\Debug\Prog1.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_18F\Programs\Prog4\Prog4\bin\Debug\Prog1.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_18F\Programs\Prog4\Prog4\obj\x86\Debug\Prog4.csprojResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_18F\Programs\Prog4\Prog4\obj\x86\Debug\Prog4.csproj.CoreCompileInputs.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_18F\Programs\Prog4\Prog4\obj\x86\Debug\Prog1.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_18F\Programs\Prog4\Prog4\obj\x86\Debug\Prog1.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19F\Programs\Prog4\Prog4\bin\Debug\Prog1.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19F\Programs\Prog4\Prog4\bin\Debug\Prog1.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19F\Programs\Prog4\Prog4\obj\x86\Debug\Prog4.csprojAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19F\Programs\Prog4\Prog4\obj\x86\Debug\Prog1.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19F\Programs\Prog4\Prog4\obj\x86\Debug\Prog1.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_20F\Progs\Prog4\Prog4\bin\Debug\Prog1.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_20F\Progs\Prog4\Prog4\bin\Debug\Prog1.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_20F\Progs\Prog4\Prog4\obj\x86\Debug\Prog4.csprojAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_20F\Progs\Prog4\Prog4\obj\x86\Debug\Prog4.csproj.CoreCompileInputs.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_20F\Progs\Prog4\Prog4\obj\x86\Debug\Prog1.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_20F\Progs\Prog4\Prog4\obj\x86\Debug\Prog1.pdb
+C:\Users\Brandon\Desktop\199 labs\Prog4\Prog4\bin\Debug\Prog1.exe.config
+C:\Users\Brandon\Desktop\199 labs\Prog4\Prog4\bin\Debug\Prog1.exe
+C:\Users\Brandon\Desktop\199 labs\Prog4\Prog4\bin\Debug\Prog1.pdb
+C:\Users\Brandon\Desktop\199 labs\Prog4\Prog4\obj\x86\Debug\Prog4.csproj.AssemblyReference.cache
+C:\Users\Brandon\Desktop\199 labs\Prog4\Prog4\obj\x86\Debug\Prog4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Brandon\Desktop\199 labs\Prog4\Prog4\obj\x86\Debug\Prog4.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Desktop\199 labs\Prog4\Prog4\obj\x86\Debug\Prog1.exe
+C:\Users\Brandon\Desktop\199 labs\Prog4\Prog4\obj\x86\Debug\Prog1.pdb
